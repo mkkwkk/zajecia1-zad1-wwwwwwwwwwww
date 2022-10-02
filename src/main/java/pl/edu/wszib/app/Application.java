@@ -13,6 +13,7 @@ public class Application
 
         shakeTruskawkowy.pij();
         shakeTruskawkowy.jedz();
+        shakeTruskawkowy.jedz();
 
 
     }
